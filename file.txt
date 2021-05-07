@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <StudyGroup>
+        <ID>1</ID>
+        <Name>Cats</Name>
+        <Coordinates_X>43</Coordinates_X>
+        <Coordinates_Y>12.0</Coordinates_Y>
+        <StudentsCount>3456</StudentsCount>
+        <FormOfEducation>EVENING_CLASSES</FormOfEducation>
+        <Semester>SIXTH</Semester>
+        <CreationDate>2021-04-28T15:36:40.461073</CreationDate>
+        <groupAdmin>
+            <GroupAdminName>Cat Guf</GroupAdminName>
+            <GroupAdminPassport>1212 565632</GroupAdminPassport>
+            <GroupAdminLocationX>3.0</GroupAdminLocationX>
+            <GroupAdminLocationY>1</GroupAdminLocationY>
+            <GroupAdminLocationZ>2.0</GroupAdminLocationZ>
+        </groupAdmin>
+    </StudyGroup>
+    <StudyGroup>
+        <ID>2</ID>
+        <Name>Stray Cats</Name>
+        <Coordinates_X>2</Coordinates_X>
+        <Coordinates_Y>5.0</Coordinates_Y>
+        <StudentsCount>3</StudentsCount>
+        <FormOfEducation>FULL_TIME_EDUCATION</FormOfEducation>
+        <Semester>SIXTH</Semester>
+        <CreationDate>2021-04-28T15:36:40.471418200</CreationDate>
+        <groupAdmin>
+            <GroupAdminName>Brian Setzer</GroupAdminName>
+            <GroupAdminPassport>5432 887777</GroupAdminPassport>
+            <GroupAdminLocationX>2.0</GroupAdminLocationX>
+            <GroupAdminLocationY>4</GroupAdminLocationY>
+            <GroupAdminLocationZ>5.0</GroupAdminLocationZ>
+        </groupAdmin>
+    </StudyGroup>
+    <StudyGroup>
+        <ID>3</ID>
+        <Name>Truppers</Name>
+        <Coordinates_X>44</Coordinates_X>
+        <Coordinates_Y>11.0</Coordinates_Y>
+        <StudentsCount>54</StudentsCount>
+        <FormOfEducation>FULL_TIME_EDUCATION</FormOfEducation>
+        <Semester>EIGHTH</Semester>
+        <CreationDate>2021-04-28T15:37:47.302389700</CreationDate>
+        <groupAdmin>
+            <GroupAdminName>Tupik Obyknovenniy</GroupAdminName>
+            <GroupAdminPassport>1231 345654</GroupAdminPassport>
+            <GroupAdminLocationX>2.0</GroupAdminLocationX>
+            <GroupAdminLocationY>3</GroupAdminLocationY>
+            <GroupAdminLocationZ>-2.0</GroupAdminLocationZ>
+        </groupAdmin>
+    </StudyGroup>
+</root>
